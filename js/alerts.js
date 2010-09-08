@@ -12,7 +12,8 @@ $(document).ready(function() {
        $(items).each(function() {
          var link = $("link", this).text();
          var title = $("title", this).text();
-         var desc = $("description", "&lt;div&gt;" + $(this).text() + "&lt;/div&gt;").text();
+	 var desco = "<div>" + $("description", this).text() + "</div>";
+	 var desc = $(desco).text();
          html += "<li><a target=\"_top\" href=\"" + link + "\" title=\"" + desc + "\">"
                  + title + "</a></li>\n";
        });
