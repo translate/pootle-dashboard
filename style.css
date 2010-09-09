@@ -63,3 +63,20 @@ div#rss-alerts li
 {
     list-style-type: square;
 }
+
+h3 {
+    font-size: 13px;
+}
+
+h3, p {
+    margin: 1px;
+    padding: 1px;
+}
+
+.ialert {
+    margin-bottom: 3px;
+}
+
+#rss-alerts {
+    margin-bottom: 10px;
+}
