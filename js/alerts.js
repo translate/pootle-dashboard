@@ -1,13 +1,14 @@
 $(document).ready(function() {
    var feed_url = "http://pootle.locamotion.org/dashboard/alerts.xml";
    /* Number of items to display */
-   var n = 5;
+   var start = 0
+   var end = 5;
    $.ajax({
      url: feed_url,
      dataType: "xml",
      type: "GET",
      success: function(data) {
-       var items = $("item", data).slice(0, -n);
+       var items = $("item", data).slice(start, -end);
        var html = "<ul>\n";
        $(items).each(function() {
          var link = $("link", this).text();
