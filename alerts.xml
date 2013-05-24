@@ -39,49 +39,107 @@ http://p.sf.net/sourceforge/support
 			<description>The world's largest Open Source software development website</description>
 		</image>
 		<item>
-			<title>Pootle 2.1.5 Released</title>
-			<description>A quick bug fix release to celebrate the new Year. Please welcome Pootle 2.1.5!</description>
+			<title>Pootle 2.5.0 Released</title>
+			<description>Major release of Pootle with many, many
+				new features. All users are  encouraged to
+				upgrade.</description>
+			<author>dwaynebailey@users.sourceforge.net (Dwayne Bailey)</author>
+			<link>http://docs.translatehouse.org/projects/pootle/en/latest/releases/2.5.0.html</link>
+			<guid isPermaLink="true">http://docs.translatehouse.org/projects/pootle/en/latest/releases/2.5.0.html</guid>
+			<pubDate>Sat, 18 May 2013 12:00:00 UTC</pubDate>
+		</item>
+		<item>
+			<title>Translate Toolkit 1.10.0</title>
+			<description>This release contains many improvements
+				and bug fixes. While it contains many general
+				improvements, it also specifically contains
+				needed changes for the upcoming Pootle
+				2.5.0.</description>
+			<author>dwaynebailey@users.sourceforge.net (Dwayne Bailey)</author>
+			<link>http://docs.translatehouse.org/projects/translate-toolkit/en/latest/releases/1.10.0.html</link>
+			<guid isPermaLink="true">http://docs.translatehouse.org/projects/translate-toolkit/en/latest/releases/1.10.0.html</guid>
+			<pubDate>Tue, 12 Mar 2013 12:00:00 UTC</pubDate>
+			<comments>http://docs.translatehouse.org/projects/translate-toolkit/en/latest/releases/1.10.0.html</comments>
+		</item>
+		<item>
+			<title>Pootle 2.1.6 Released</title>
+			<description>Restored compatibility with the latest
+				Django releases and some bug fixes. All users
+				are encouraged to upgrade.</description>
 			<author>alaaosh@users.sourceforge.net (Alaa Abd El Fattah)</author>
-			<link>http://sourceforge.net/news/?group_id=91920&#38;id=296386</link>
-			<guid isPermaLink="true">http://sourceforge.net/news/?group_id=91920&#38;id=296386</guid>
+			<link>http://docs.translatehouse.org/projects/pootle/en/latest/releases/2.1.6.html</link>
+			<guid isPermaLink="true">http://docs.translatehouse.org/projects/pootle/en/latest/releases/2.1.6.html</guid>
+			<pubDate>Wed, 13 Apr 2011 12:00:00 UTC</pubDate>
+		</item>
+		<item>
+			<title>Translate Toolkit 1.9.0 Released</title>
+			<description>This release contains many improvements
+				and bug fixes. While it contains many general
+				improvements, it also specifically contains
+				needed changes for the upcoming Pootle 2.1.6
+				and Virtaal 0.7.</description>
+			<author>alaaosh@users.sourceforge.net (Alaa Abd El Fattah)</author>
+			<link>http://docs.translatehouse.org/projects/translate-toolkit/en/latest/releases/1.9.0.html</link>
+			<guid isPermaLink="true">http://docs.translatehouse.org/projects/translate-toolkit/en/latest/releases/1.9.0.html</guid>
+			<pubDate>Tue, 12 Apr 2011 12:00:00 UTC</pubDate>
+		</item>
+		<item>
+			<title>Pootle 2.1.5 Released</title>
+			<description>A quick bug fix release to celebrate the
+				new Year. Please welcome Pootle
+				2.1.5!</description>
+			<author>alaaosh@users.sourceforge.net (Alaa Abd El Fattah)</author>
+			<link>http://docs.translatehouse.org/projects/pootle/en/latest/releases/2.1.5.html</link>
+			<guid isPermaLink="true">http://docs.translatehouse.org/projects/pootle/en/latest/releases/2.1.5.html</guid>
 			<pubDate>Tue, 18 Jan 2011 15:57:58 GMT</pubDate>
-			<comments>http://sourceforge.net/news/?group_id=91920&#38;id=296386</comments>
+			<comments>http://docs.translatehouse.org/projects/pootle/en/latest/releases/2.1.5.html</comments>
 		</item>
 		<item>
 			<title>Pootle 2.1.4 Released</title>
-			<description>We thought we'd wrap up the year with one more bug fix release, Please welcome Pootle 2.1.4</description>
+			<description>We thought we'd wrap up the year with one
+				more bug fix release, Please welcome Pootle
+				2.1.4</description>
 			<author>alaaosh@users.sourceforge.net (Alaa Abd El Fattah)</author>
-			<link>http://sourceforge.net/news/?group_id=91920&#38;id=295275</link>
-			<guid isPermaLink="true">http://sourceforge.net/news/?group_id=91920&#38;id=295275</guid>
+			<link>http://docs.translatehouse.org/projects/pootle/en/latest/releases/2.1.4.html</link>
+			<guid isPermaLink="true">http://docs.translatehouse.org/projects/pootle/en/latest/releases/2.1.4.html</guid>
 			<pubDate>Fri, 17 Dec 2010 09:51:13 GMT</pubDate>
-			<comments>http://sourceforge.net/news/?group_id=91920&#38;id=295275</comments>
+			<comments>http://docs.translatehouse.org/projects/pootle/en/latest/releases/2.1.4.html</comments>
 		</item>
 		<item>
-			<title>Pootle 2.1.3 released</title>
-			<description>It's been less than three weeks since the we released Pootle 2.1.2 but we've fixed a couple of critical bugs affecting many users so it's time for another bug fix release. Please welcome Pootle 2.1.3 </description>
+			<title>Pootle 2.1.3 Released</title>
+			<description>It's been less than three weeks since the
+				we released Pootle 2.1.2 but we've fixed a
+				couple of critical bugs affecting many users so
+				it's time for another bug fix release. Please
+				welcome Pootle 2.1.3 </description>
 			<author>alaaosh@users.sourceforge.net (Alaa Abd El Fattah)</author>
-			<link>http://sourceforge.net/news/?group_id=91920&#38;id=294444</link>
-			<guid isPermaLink="true">http://sourceforge.net/news/?group_id=91920&#38;id=294444</guid>
+			<link>http://docs.translatehouse.org/projects/pootle/en/latest/releases/2.1.3.html</link>
+			<guid isPermaLink="true">http://docs.translatehouse.org/projects/pootle/en/latest/releases/2.1.3.html</guid>
 			<pubDate>Fri, 26 Nov 2010 22:59:31 GMT</pubDate>
-			<comments>http://sourceforge.net/news/?group_id=91920&#38;id=294444</comments>
+			<comments>http://docs.translatehouse.org/projects/pootle/en/latest/releases/2.1.3.html</comments>
 		</item>
 		<item>
 			<title>Translate Toolkit 1.8.1</title>
-			<description>Today the Translate team released version 1.8.1 of the Translate Toolkit.  The Translate Toolkit contains many useful tools for translation, management, and quality control. It is the technology platform for Pootle, Virtaal, and other software.</description>
+			<description>Today the Translate team released version
+				1.8.1 of the Translate Toolkit.  The Translate
+				Toolkit contains many useful tools for
+				translation, management, and quality control.
+				It is the technology platform for Pootle,
+				Virtaal, and other software.</description>
 			<author>alaaosh@users.sourceforge.net (Alaa Abd El Fattah)</author>
-			<link>http://sourceforge.net/news/?group_id=91920&#38;id=294443</link>
-			<guid isPermaLink="true">http://sourceforge.net/news/?group_id=91920&#38;id=294443</guid>
+			<link>http://docs.translatehouse.org/projects/translate-toolkit/en/latest/releases/1.8.1.html</link>
+			<guid isPermaLink="true">http://docs.translatehouse.org/projects/translate-toolkit/en/latest/releases/1.8.1.html</guid>
 			<pubDate>Fri, 26 Nov 2010 22:59:10 GMT</pubDate>
-			<comments>http://sourceforge.net/news/?group_id=91920&#38;id=294443</comments>
+			<comments>http://docs.translatehouse.org/projects/translate-toolkit/en/latest/releases/1.8.1.html</comments>
 		</item>
 		<item>
 			<title>Pootle 2.1.2 Released including security fix</title>
 			<description>&#60;a href=&#34;http://sourceforge.net/projects/translate/files/Pootle/2.1.2/Pootle-2.1.2.tar.bz2/download&#34;&#62;http://sourceforge.net/projects/translate/files/Pootle/2.1.2/Pootle-2.1.2.tar.bz2/download&#60;/a&#62;&#60;br /&#62;&#60;br /&#62;This release includes an important security fix to a cross site scripting vulnerability in the translate page. All users are encouraged to upgrade immediately.</description>
 			<author>alaaosh@users.sourceforge.net (Alaa Abd El Fattah)</author>
-			<link>http://sourceforge.net/news/?group_id=91920&#38;id=294021</link>
-			<guid isPermaLink="true">http://sourceforge.net/news/?group_id=91920&#38;id=294021</guid>
+			<link>http://docs.translatehouse.org/projects/pootle/en/latest/releases/2.1.2.html</link>
+			<guid isPermaLink="true">http://docs.translatehouse.org/projects/pootle/en/latest/releases/2.1.2.html</guid>
 			<pubDate>Mon, 15 Nov 2010 23:40:45 GMT</pubDate>
-			<comments>http://sourceforge.net/news/?group_id=91920&#38;id=294021</comments>
+			<comments>http://docs.translatehouse.org/projects/pootle/en/latest/releases/2.1.2.html</comments>
 		</item>
 		<item>
 			<title>Pootle 2.1.1 Released</title>
