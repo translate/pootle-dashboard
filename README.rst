@@ -4,6 +4,8 @@ Pootle Dashboard
 The dashboard is a news feed on the Pootle admin page that delivers release
 news to Pootle administrators.
 
-This is run from the Translate servers.
+The dashboard is run from the Translate servers.
 
-.. note:: This isn't of much use for Pootle hacking.
+If you want to hack on Pootle then you are looking for the `Pootle repo`_.
+
+.. _Pootle repo: https://github.com/translate/pootle
