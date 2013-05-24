@@ -1,7 +1,7 @@
 $(document).ready(function() {
    var feed_url = "http://pootle.locamotion.org/dashboard/alerts.xml";
    /* Number of items to display */
-   var start = 0
+   var start = 1
    var end = 5;
    $.ajax({
      url: feed_url,
