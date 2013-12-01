@@ -39,6 +39,18 @@ http://p.sf.net/sourceforge/support
 			<description>The world's largest Open Source software development website</description>
 		</image>
 		<item>
+			<title>Translate Toolkit 1.11.0-rc1</title>
+			<description>This release contains many improvements
+				and bug fixes. While it contains many general
+				improvements, it also specifically contains
+				needed changes for the upcoming Pootle
+				2.5.1 and Virtaal releases.</description>
+			<author>dwaynebailey@users.sourceforge.net (Dwayne Bailey)</author>
+			<link>http://docs.translatehouse.org/projects/translate-toolkit/en/latest/releases/1.11.0-rc1.html</link>
+			<guid isPermaLink="true">http://docs.translatehouse.org/projects/translate-toolkit/en/latest/releases/1.11.0-rc1.html</guid>
+			<pubDate>Tue, 26 November 2013 12:00:00 UTC</pubDate>
+		</item>
+		<item>
 			<title>Pootle 2.5.0 Released</title>
 			<description>Major release of Pootle with many, many
 				new features. All users are  encouraged to
