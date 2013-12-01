@@ -39,6 +39,16 @@ http://p.sf.net/sourceforge/support
 			<description>The world's largest Open Source software development website</description>
 		</image>
 		<item>
+			<title>Pootle 2.5.1-rc1 Released</title>
+			<description>Major release of Pootle. New features include: goals,
+				tags, extension action and a Pootle API. All users are  encouraged to
+				perform a test upgrade.</description>
+			<author>dwaynebailey@users.sourceforge.net (Dwayne Bailey)</author>
+			<link>http://docs.translatehouse.org/projects/pootle/en/latest/releases/2.5.1-rc1.html</link>
+			<guid isPermaLink="true">http://docs.translatehouse.org/projects/pootle/en/latest/releases/2.5.1-rc1.html</guid>
+			<pubDate>Sun, 1 December 2013 12:00:00 UTC</pubDate>
+		</item>
+		<item>
 			<title>Translate Toolkit 1.11.0-rc1</title>
 			<description>This release contains many improvements
 				and bug fixes. While it contains many general
