@@ -39,6 +39,15 @@ http://p.sf.net/sourceforge/support
 			<description>The world's largest Open Source software development website</description>
 		</image>
 		<item>
+			<title>Pootle 2.5.1.2 Released</title>
+			<description>Bugfix release of Pootle. All users are  encouraged to
+				perform a test upgrade.</description>
+			<author>dwaynebailey@users.sourceforge.net (Dwayne Bailey)</author>
+			<link>http://docs.translatehouse.org/projects/pootle/en/stable-2.5.1/releases/2.5.1.2.html</link>
+			<guid isPermaLink="true">http://docs.translatehouse.org/projects/pootle/en/stable-2.5.1/releases/2.5.1.2.html</guid>
+			<pubDate>Mon, 01 June 2015 12:00:00 UTC</pubDate>
+		</item>
+		<item>
 			<title>Pootle 2.5.1 Released</title>
 			<description>Major release of Pootle. New features include: goals,
 				tags, extension action and a Pootle API. All users are  encouraged to
